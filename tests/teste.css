@@ -1,0 +1,14 @@
+body {
+  background-color: blueviolet;
+}
+
+.dad {
+  display: flex;
+  width: 980px;
+  height: 1000px;
+  border: 2px solid darkgreen;
+}
+.dad h1 {
+  display: flex;
+  justify-content: center;
+}

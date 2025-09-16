@@ -1,0 +1,23 @@
+body {
+  background-color: rgb(213, 228, 228);
+}
+
+.perfil {
+  width: 50%;
+  background-color: gray;
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  border-radius: 8px;
+  margin-bottom: 4px;
+}
+
+.imagem img {
+  width: 100px;
+  height: 150px;
+  border-radius: 8px;
+}
+
+.info p {
+  margin: 4px 0;
+}
